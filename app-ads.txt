@@ -1,0 +1,11 @@
+# app-ads.txt for heruyoyoi.github.io
+# Developer: Heru Sulistya
+# Apps: ScannerApp - Scan & OCR (id6812592063), SplitBill: Tip & Split Bill (id6818700258)
+#
+# AppLovin: after your account is approved, copy the lines from
+# AppLovin Dashboard > Account > General > App-ads.txt Info
+# and paste them below this comment block.
+#
+# Google (only if you add Google bidding / AdMob): copy your line from
+# AdMob > Apps > View all apps > app-ads.txt. It looks like:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
